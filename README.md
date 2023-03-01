@@ -47,3 +47,12 @@ https://github.com/luminus-xd/misskey-game-lore-css/blob/main/style.css
 └─.vscode
         settings.json
 ```
+
+## 利用フォント
+
+Google Font
+
+| フォント名称       | URL                                                 |
+| ------------------ | --------------------------------------------------- |
+| Inter              | https://fonts.google.com/specimen/Inter             |
+| Noto Sans Japanese | https://fonts.google.com/noto/specimen/Noto+Sans+JP |
