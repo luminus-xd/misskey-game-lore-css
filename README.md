@@ -1,17 +1,17 @@
 # misskey-game-lore-css
 
-ゲームすきーのカスタム CSS
-https://misskey.gamelore.fun/
+ゲームすきーのカスタム CSS  
+https://misskey.gamelore.fun/  
 ※新規受付停止やフォロー承認制度が採用されている場合があります
 
 ## 注意事項
 
-Misskey ではカスタム CSS を推奨している訳ではなく、UI 破損の原因となる場合もあるため、十分に注意してください。
+Misskey ではカスタム CSS を推奨している訳ではなく、UI 破損の原因となる場合もあるため、十分に注意してください。  
 当リポジトリのコードは Luminus が動作確認済みですが、カスタムした場合の動作は保証しません。
 
 ## 設定方法
 
-Misskey への適用方法
+Misskey への適用方法  
 ※PC、スマホのブラウザで利用している場合
 
 ### Misskey のカスタム CSS 入力欄を開く
