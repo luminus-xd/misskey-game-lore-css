@@ -31,7 +31,7 @@ Misskey への適用方法
 
 ### ソースをコピペする
 
-下記のソースをコピペして貼り付けて保存する。
+下記のソースをコピペして貼り付けて保存する。  
 https://github.com/luminus-xd/misskey-game-lore-css/blob/main/style.css
 
 ```bash
