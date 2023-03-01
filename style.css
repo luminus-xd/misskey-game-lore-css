@@ -1,3 +1,5 @@
+/* @see https://github.com/luminus-xd/misskey-game-lore-css */
+
 /* Google Fontで読み込み */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Noto+Sans+JP:wght@400;700&display=swap');
 
@@ -6,16 +8,23 @@
     font-family: Inter, 'Noto Sans JP', sans-serif;
 }
 
-html {
+body {
     font-feature-settings: 'palt' !important;
+    -webkit-font-smoothing: antialiased;
 }
 
 /* タイムラインの名前下余白を拡張 */
 header.xCPfz {
-    margin-bottom: 0.4em !important;
+    margin-bottom: 0.32em !important;
 }
 
-/* タイムライン内の line-height を調整 */
+/* タイムライン内テキスト */
 div.x48yH {
     line-height: 1.48 !important;
+    letter-spacing: 0.042em !important;
+}
+
+/* 通知ウィジェットの余白調整　フォローボタン上 */
+.notification span.xi4PS + div {
+    margin-top: 0.42em;
 }
