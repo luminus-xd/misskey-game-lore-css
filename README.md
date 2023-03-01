@@ -9,6 +9,16 @@ https://misskey.gamelore.fun/
 Misskey ではカスタム CSS を推奨している訳ではなく、UI 破損の原因となる場合もあるため、十分に注意してください。  
 当リポジトリのコードは Luminus が動作確認済みですが、カスタムした場合の動作は保証しません。
 
+## プレビュー
+
+### ホーム
+
+![misskey-timeline](/assets/misskey-timeline.webp)
+
+### ノート
+
+![misskey-note](/assets/misskey-note.webp)
+
 ## 設定方法
 
 Misskey への適用方法  
@@ -37,3 +47,12 @@ https://github.com/luminus-xd/misskey-game-lore-css/blob/main/style.css
 └─.vscode
         settings.json
 ```
+
+## 利用フォント
+
+Google Font
+
+| フォント名称       | URL                                                 |
+| ------------------ | --------------------------------------------------- |
+| Inter              | https://fonts.google.com/specimen/Inter             |
+| Noto Sans Japanese | https://fonts.google.com/noto/specimen/Noto+Sans+JP |
