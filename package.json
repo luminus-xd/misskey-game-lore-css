@@ -1,0 +1,15 @@
+{
+    "name": "misskey-game-lore-css",
+    "version": "1.0.0",
+    "main": "style.css",
+    "repository": "git@github.com:luminus-xd/misskey-game-lore-css.git",
+    "author": "Luminus",
+    "license": "MIT",
+    "devDependencies": {
+        "prettier": "^2.8.4",
+        "stylelint": "^15.2.0",
+        "stylelint-config-prettier": "^9.0.5",
+        "stylelint-config-standard": "^30.0.1",
+        "stylelint-prettier": "^3.0.0"
+    }
+}

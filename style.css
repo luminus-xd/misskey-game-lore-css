@@ -1,0 +1,21 @@
+/* Google Fontで読み込み */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Noto+Sans+JP:wght@400;700&display=swap');
+
+/* 英字を Inter、日本語を Noto Sans JP に変更 */
+* {
+    font-family: Inter, 'Noto Sans JP', sans-serif;
+}
+
+html {
+    font-feature-settings: 'palt' !important;
+}
+
+/* タイムラインの名前下余白を拡張 */
+header.xCPfz {
+    margin-bottom: 0.4em !important;
+}
+
+/* タイムライン内の line-height を調整 */
+div.x48yH {
+    line-height: 1.48 !important;
+}
